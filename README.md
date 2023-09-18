@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @9BitByte
+- 👀 I’m interested in OS development/Reverse engineering.
+- 🌱 I’m currently learning OS development in C.
+- 💞️ I’m looking to collaborate on not much.
+- 📫 How to reach me 9BitByte@macaw.me (XMPP)
